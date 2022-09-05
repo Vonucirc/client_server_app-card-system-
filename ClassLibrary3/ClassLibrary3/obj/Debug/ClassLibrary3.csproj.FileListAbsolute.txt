@@ -1,0 +1,5 @@
+C:\Users\slava\source\repos\ClassLibrary3\ClassLibrary3\bin\Debug\ClassLibrary3.dll
+C:\Users\slava\source\repos\ClassLibrary3\ClassLibrary3\bin\Debug\ClassLibrary3.pdb
+C:\Users\slava\source\repos\ClassLibrary3\ClassLibrary3\obj\Debug\ClassLibrary3.csproj.CoreCompileInputs.cache
+C:\Users\slava\source\repos\ClassLibrary3\ClassLibrary3\obj\Debug\ClassLibrary3.dll
+C:\Users\slava\source\repos\ClassLibrary3\ClassLibrary3\obj\Debug\ClassLibrary3.pdb

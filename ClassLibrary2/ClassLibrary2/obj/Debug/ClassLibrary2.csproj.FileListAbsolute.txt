@@ -1,0 +1,6 @@
+C:\Users\slava\source\repos\ClassLibrary2\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\slava\source\repos\ClassLibrary2\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\slava\source\repos\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.AssemblyReference.cache
+C:\Users\slava\source\repos\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.CoreCompileInputs.cache
+C:\Users\slava\source\repos\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\slava\source\repos\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
